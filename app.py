@@ -163,3 +163,10 @@ def display_crypto_data():
 # Run app
 if __name__ == "__main__":
     display_crypto_data()
+
+# 1. git init 
+# git remote add origin https://github.com/bluewholepk/BlueWholePk.git
+# 2. git add .
+# 3. git commit -m "V-1.0"
+# 4. git branch -M main
+# 5. git push -u origin main
